@@ -1,7 +1,7 @@
 # include <stdio.h>
 #include <stdbool.h>
 int main(){
-    //hi
+    //MY FIST GITHUB CHANGE
     /*
     h
     i
@@ -22,3 +22,4 @@ int main(){
     printf("%d\n",isOnline);
     return 0;   
 }
+
